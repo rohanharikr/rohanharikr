@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**rohanharikr/rohanharikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br />
+  <p>
+    <img
+      width="auto"
+      src="https://rohanharikumar.com/assets/images/hidetaka.jpg"
+    />
+  </p>
+  <p><strong>elden ring...ohhhhhhhhhh..elden ring</strong></p>
+  <p>
+    This banner was put here by a hollwing indivual. It shall be removed once elden rings arrives... ha ha he he
+  </p>
+  <p>
+    <a href="#">Elden</a> —
+    <a href="#">Ring</a> —
+  </p>
+</div>
