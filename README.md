@@ -8,7 +8,7 @@
   </p>
   <p><strong>elden ring...ohhhhhhhhhh..elden ring</strong></p>
   <p>
-    This banner was put here by a hollwing indivual. It shall be removed once elden rings arrives... ha ha he he
+    This banner was put here by a hollwing individual. It shall be removed once elden rings arrives... ha ha he he
   </p>
   <p>
     <a href="#">Elden</a>
