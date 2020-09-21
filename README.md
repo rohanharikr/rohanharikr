@@ -3,7 +3,7 @@
   <p>
     <img
       width="auto"
-      src="https://rohanharikumar.com/assets/images/hidetaka.jpg"
+      src="https://rohanharikumar.com/assets/img/hidetaka.jpg"
     />
   </p>
   <p><strong>elden ring...ohhhhhhhhhh..elden ring</strong></p>
