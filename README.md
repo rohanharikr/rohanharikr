@@ -1,17 +1,1 @@
-<div align="center">
-  <br />
-  <p>
-    <img
-      width="auto"
-      src="https://rohanharikumar.com/assets/img/hidetaka.jpg"
-    />
-  </p>
-  <p><strong>elden ring...ohhhhhhhhhh..elden ring</strong></p>
-  <p>
-    This banner was put here by a hollwing individual. It shall be removed once elden rings arrives... ha ha he he
-  </p>
-  <p>
-    <a href="#">Elden</a>
-    <a href="#">Ring</a>
-  </p>
-</div>
+<img width="auto" src="https://pbs.twimg.com/profile_banners/1312038130808098816/1601836650/1500x500"/>
